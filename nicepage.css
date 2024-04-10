@@ -43398,38 +43398,42 @@ a.u-link.u-text-hover-grey-90:hover {
 
  .u-footer {
   background-image: none;
-}
-
-.u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 138px;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
+  margin: 36px calc(((100% - 1140px) / 2) + -37px) 36px 0;
+}
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-footer .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
+  .u-footer .u-text-1 {
+    width: 417px;
+    margin-right: calc(((100% - 940px) / 2));
   }
 }
 @media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
+  .u-footer .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2));
   }
 }
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
+  .u-footer .u-text-1 {
+    margin-right: calc(((100% - 540px) / 2));
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
-
   .u-footer .u-text-1 {
     width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
   }
 }
 
