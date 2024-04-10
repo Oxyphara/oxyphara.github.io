@@ -588,6 +588,7 @@
   .u-section-2 .u-repeater-1 {
     grid-auto-columns: calc(100% - 0px);
     grid-template-columns: 100%;
+    min-height: 171px;
   }
 
   .u-section-2 .u-image-1 {
