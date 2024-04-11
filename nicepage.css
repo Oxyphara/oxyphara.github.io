@@ -43478,12 +43478,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
    .u-footer {
-    min-height: 316px;
+    min-height: 288px;
   }
 
   .u-footer .u-text-1 {
     width: auto;
-    margin: 11px calc(((100% - 575px) / 2) + 116px) 25px calc(((100% - 575px) / 2) + 40px);
+    margin-right: calc(((100% - 575px) / 2) + 35px);
+    margin-left: calc(((100% - 575px) / 2) + -35px);
   }
 }
 
