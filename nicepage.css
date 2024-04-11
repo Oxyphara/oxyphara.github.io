@@ -43055,6 +43055,11 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
+        
         }
 
         /** common-rules **/
@@ -43236,6 +43241,16 @@ a.u-link.u-text-hover-grey-90:hover {
         font-size: 1.5rem;
         }
         }
+        @media (max-width: 575px) {
+        p:not(.u-text-variant)
+        {
+        font-size: 0.875rem;
+        line-height: 1.6;
+        color: #d9d9d9;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        }
         /*end-media rules*/
         /** publish-rules **/
 
@@ -43270,6 +43285,13 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-xs h3
         {
         font-size: 1.5rem;
+        }
+        .u-xs p:not(.u-text-variant)
+        {
+        font-size: 0.875rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         /*end-responsive rules*/
         /** cms-rules **/
