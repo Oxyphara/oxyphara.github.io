@@ -1498,7 +1498,11 @@
   }
 
   .u-section-4 .u-list-1 {
+<<<<<<< HEAD
     width: calc(((100% - 575px) / 2) + 606px);
+=======
+    width: 616px;
+>>>>>>> parent of 0484f5e (Better phone view)
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 60px;
@@ -1507,21 +1511,40 @@
 
   .u-section-4 .u-repeater-1 {
     min-height: 14735px;
+<<<<<<< HEAD
+=======
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-bottom: 2px;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-line-1 {
     transform-origin: center top 0px;
     width: 0;
+<<<<<<< HEAD
+=======
+    margin-top: 1px;
+>>>>>>> parent of 0484f5e (Better phone view)
     margin-right: 625px;
     margin-left: 0;
   }
 
   .u-section-4 .u-group-1 {
+<<<<<<< HEAD
     min-height: 3630px;
     width: 635px;
     margin-top: 48px;
     margin-right: 0;
     margin-left: 21px;
+=======
+    min-height: 3641px;
+    width: 668px;
+    margin-top: auto;
+    margin-right: -52px;
+    margin-left: 0;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-text-2 {
@@ -1533,23 +1556,45 @@
   .u-section-4 .u-text-3 {
     font-size: 1.5rem;
     width: auto;
+<<<<<<< HEAD
     margin-top: 36px;
     margin-right: 28px;
+=======
+    margin-top: 28px;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-bottom: 2px;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-line-2 {
     transform-origin: center top 0px;
     width: 0;
+<<<<<<< HEAD
+=======
+    margin-top: 1px;
+>>>>>>> parent of 0484f5e (Better phone view)
     margin-right: 625px;
     margin-left: 0;
   }
 
   .u-section-4 .u-group-2 {
+<<<<<<< HEAD
     min-height: 3630px;
     width: 635px;
     margin-top: 48px;
     margin-right: 0;
     margin-left: 21px;
+=======
+    min-height: 3641px;
+    width: 668px;
+    margin-top: auto;
+    margin-right: -52px;
+    margin-left: 0;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-text-4 {
@@ -1560,23 +1605,45 @@
 
   .u-section-4 .u-text-5 {
     width: auto;
+<<<<<<< HEAD
     margin-top: 36px;
     margin-right: 156px;
+=======
+    margin-top: 28px;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-bottom: 2px;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-line-3 {
     transform-origin: center top 0px;
     width: 0;
+<<<<<<< HEAD
+=======
+    margin-top: 1px;
+>>>>>>> parent of 0484f5e (Better phone view)
     margin-right: 625px;
     margin-left: 0;
   }
 
   .u-section-4 .u-group-3 {
+<<<<<<< HEAD
     min-height: 3630px;
     width: 635px;
     margin-top: 48px;
     margin-right: 0;
     margin-left: 21px;
+=======
+    min-height: 3641px;
+    width: 668px;
+    margin-top: auto;
+    margin-right: -52px;
+    margin-left: 0;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-text-6 {
@@ -1587,23 +1654,45 @@
 
   .u-section-4 .u-text-7 {
     width: auto;
+<<<<<<< HEAD
     margin-top: 36px;
     margin-right: 156px;
+=======
+    margin-top: 28px;
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .u-section-4 .u-container-layout-7 {
+    padding-bottom: 2px;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-line-4 {
     transform-origin: center top 0px;
     width: 0;
+<<<<<<< HEAD
+=======
+    margin-top: 1px;
+>>>>>>> parent of 0484f5e (Better phone view)
     margin-right: 625px;
     margin-left: 0;
   }
 
   .u-section-4 .u-group-4 {
+<<<<<<< HEAD
     min-height: 3630px;
     width: 635px;
     margin-top: 48px;
     margin-right: 0;
     margin-left: 21px;
+=======
+    min-height: 3641px;
+    width: 668px;
+    margin-top: auto;
+    margin-right: -52px;
+    margin-left: 0;
+>>>>>>> parent of 0484f5e (Better phone view)
   }
 
   .u-section-4 .u-text-8 {
